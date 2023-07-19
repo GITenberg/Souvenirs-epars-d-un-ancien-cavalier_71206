@@ -1,0 +1,32 @@
+_repo: Souvenirs-epars-d-un-ancien-cavalier_71206
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Tristan
+    alias: Bernard, Paul
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '55824'
+    url: http://www.gutenberg.org/2009/agents/55824
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tristan_Bernard
+    - https://fr.wikipedia.org/wiki/Tristan_Bernard
+description: ''
+gutenberg_issued: '2023-07-16'
+identifiers:
+  gutenberg: '71206'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101067887230
+pgterms:marc905: 20230617034610bernard
+pgterms:marc906: '1917'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bGeorges Crès, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Souvenirs épars d'un ancien cavalier
+url: http://www.gutenberg.org/ebooks/71206
